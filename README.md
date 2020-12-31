@@ -15,3 +15,4 @@ toast (titleMessage, [infoMessage], [flagOfMessage])
 'Critical = 3
 example
 toast "Hello World", "from Excel",1
+![](https://github.com/rfl808/Notify/blob/main/mytoast.JPG)Welcome to the Notify wiki!
