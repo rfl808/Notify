@@ -6,10 +6,12 @@ Copy the VBA notify code and paste it to the right pane of the VBA editor ("Modu
 
 Syntax
 
-notify (titleMessage, [infoMessage], [flagOfMessage])
+toast (titleMessage, [infoMessage], [flagOfMessage])
 
 'Flags for the balloon message..
 'None = 0
 'Information = 1
 'Exclamation = 2
 'Critical = 3
+example
+toast "Hello World", "from Excel",1
