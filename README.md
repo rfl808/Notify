@@ -24,5 +24,11 @@ Critical = 3
 
 toast "Hello World", "from Excel",1
 
+It is possible to use emojis such as 😍
+![image](https://user-images.githubusercontent.com/73585766/113490931-a1cbcc00-94a3-11eb-9a13-18b8fe8b335f.png)
+
+Just convert it to chrW code
+
+toast ChrW(-10179) & Chrw(-8691), "from Excel"
 
 ![](https://github.com/rfl808/Notify/blob/main/mytoast.JPG)
